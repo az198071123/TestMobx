@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mobx": "^5.15.7",
+    "mobx-keystone": "^1.6.3"
+  }
+}

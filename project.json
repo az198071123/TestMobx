@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "TestMobx",
+  "id": "c6a37a9c-b2cb-4726-be40-7f7a1b60b61b",
+  "version": "2.4.11",
+  "isNew": false
+}
